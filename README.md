@@ -1,5 +1,8 @@
 # suan
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/OldPanda/suan.svg)](https://pkg.go.dev/github.com/OldPanda/suan)
+[![Go Report Card](https://goreportcard.com/badge/github.com/OldPanda/suan)](https://goreportcard.com/report/github.com/OldPanda/suan)
+
 Suan( 算 ) is a CLI tool to calculate given mathematical expression.
 Currently it supports addition, substraction, multiplication, division, and
 exponent operations including any of their combinations with parenthesis.
